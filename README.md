@@ -1,2 +1,2 @@
-# Angry-Mouse
-Drag red with your mouse and destroy the pig house
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
